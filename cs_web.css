@@ -61,10 +61,10 @@ nav {
   font-weight: bold;
 }
 
-#name a:link {
+nav a:link {
   color: #FFFFFF;
 }
-#name a {
+nav a {
   color: #FFFFFF;
   text-decoration: none;
 }
