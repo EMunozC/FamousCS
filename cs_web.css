@@ -61,10 +61,10 @@ nav {
   font-weight: bold;
 }
 
-#turing a:link {
+#name a:link {
   color: #FFFFFF;
 }
-#turing a {
+#name a {
   text-decoration: none;
 }
 
@@ -92,7 +92,7 @@ main {
 
 }
 
-#turing {
+#name {
   text-align: center;
   text-decoration: none;
   text-shadow:
