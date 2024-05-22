@@ -1,0 +1,122 @@
+* { 
+  box-sizing: border-box; 
+}
+
+body {
+  background-image: linear-gradient(to bottom, #001359 45%, #000000 55%);
+  color: #666666;
+  font-family: Verdana, Arial, sans-serif;
+  margin: 0;
+}
+
+img {
+  float: right;
+}
+
+header { 
+  color: #FFFFFF;
+  font-family: Georgia, serif;
+  padding: .5em;
+}
+
+#background {
+  background-image: url(https://img.freepik.com/free-vector/motherboard-circuit-technology-background-vector-gradient-blue_53876-126034.jpg);
+  background-size: 100%;
+}
+
+img {
+  padding: 10px;
+}
+
+h1 {
+  color: #FFFFFF;
+  text-align: center;
+  text-shadow:
+    4px 4px 0 #000,
+    -4px 4px 0 #000,
+    -4px -4px 0 #000,
+    4px -4px 0 #000;
+}
+
+h2 { 
+  color: #032BD0;
+  font-family: Georgia, serif; 
+}
+
+h3 { 
+  font-family: Georgia, serif; 
+}
+
+nav { 
+  font-family: Georgia, serif; 
+  font-weight: bold;
+}
+
+#turing a:link {
+  color: #FFFFFF;
+}
+#turing a {
+  text-decoration: none;
+}
+
+nav a 
+{ text-decoration: none;
+  text-shadow:
+      3px 3px 0 #000,
+      -3px 3px 0 #000,
+      -3px -3px 0 #000,
+      3px -3px 0 #000;}
+nav a:link       
+{ color: white; }
+nav a:visited 
+{ color: #344873; }
+nav a:hover     
+{ color: #A52A2A; }
+nav ul { 
+  margin: 0 auto;
+  text-align: center;
+}
+
+nav li { 
+  display: inline-block;
+  height: 45px;
+  padding: .5em 2em;
+  margin-left: 8px;
+  margin-right: 8px;  
+}
+
+main { 
+  padding: 1em 1em 1em 0; 
+  background-color: #FFFFFF;
+  width: 85%;
+  opacity: .8;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#turing {
+  text-align: center;
+  text-decoration: none;
+  text-shadow:
+    3px 3px 0 #000,
+    -3px 3px 0 #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
+}
+
+#wrapper {
+  width: 80%;
+  margin: auto;
+}
+
+footer { 
+  clear: both;  
+  height: 100%;
+  font-size: .70em;
+  font-style: italic;
+  padding: 1em;
+  text-align: center;
+  color: white;
+  background-color: #000000;
+}
