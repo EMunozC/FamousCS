@@ -85,7 +85,7 @@ nav a
       -3px -3px 0 #000,
       3px -3px 0 #000;}
 h4 a:link 
-{ color: white; }
+{ color: black; }
 h4 a:visited
 { color: white; }
 h4 a:hover     
@@ -108,12 +108,12 @@ main {
 
 #name {
   text-align: center;
-  text-decoration: none;
   text-shadow:
     3px 3px 0 #000,
     -3px 3px 0 #000,
     -3px -3px 0 #000,
     3px -3px 0 #000;
+  text-decoration: none;
 }
 
 #wrapper {
