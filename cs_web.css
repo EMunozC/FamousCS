@@ -40,6 +40,11 @@ img {
 h1 {
   color: #FFFFFF;
   text-align: center;
+  text-shadow:
+    3px 3px 0 #000,
+    -3px 3px 0 #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
 }
 
 h2 { 
@@ -54,6 +59,11 @@ h3 {
 nav { 
   font-family: Georgia, serif; 
   font-weight: bold;
+  text-shadow:
+    3px 3px 0 #000,
+    -3px 3px 0 #000,
+    -3px -3px 0 #000,
+    3px -3px 0 #000;
 }
 
 ul li a {
