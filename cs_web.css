@@ -73,7 +73,7 @@ ul li a {
 nav a:link {
   color: #FFFFFF;
 }
-nav a {
+#name a {
   text-decoration: none;
 }
 
